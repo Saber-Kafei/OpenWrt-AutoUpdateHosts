@@ -43,4 +43,3 @@ echo "AutoUpdateHosts 脚本安装完成！脚本将在每天的 $CRON_HOUR 点 
 # 运行脚本文件一次
 echo "运行 AutoUpdateHosts 脚本..."
 "$SCRIPT_PATH"
-
