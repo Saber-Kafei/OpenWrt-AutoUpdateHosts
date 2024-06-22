@@ -50,3 +50,4 @@ else
     /etc/init.d/dnsmasq restart
     echo "已重启 Dnsmasq，Hosts 已生效！"
 fi
+
